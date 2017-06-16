@@ -11,9 +11,9 @@ Google Chrome 48 and above
 Install the extenstion from the below link  
 [https://chrome.google.com/webstore/detail/cognizant-intelligent-tes/eghfogfdhadandcigjcccdfhlohcgljn](https://chrome.google.com/webstore/detail/cognizant-intelligent-tes/eghfogfdhadandcigjcccdfhlohcgljn)
 
-## Pull Requests
+## Development / Contribution
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting your pull requests.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting your pull requests. It also has details on how to setup your development environment.
 
 ## Code of Conduct
 
