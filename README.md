@@ -1,4 +1,8 @@
-# Chrome Extension for Cognizant Intelligent Test Scripter [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Cognizant-Intelligent-Test-Scripter) [![Google Group](https://img.shields.io/badge/%E2%9C%89-Google%20Group-blue.svg)](https://groups.google.com/forum/#!forum/cognizant-intelligent-test-scripter) ![ChromeDownloads](https://img.shields.io/chrome-web-store/d/eghfogfdhadandcigjcccdfhlohcgljn.svg) [![Version](https://img.shields.io/chrome-web-store/v/eghfogfdhadandcigjcccdfhlohcgljn.svg)](https://chrome.google.com/webstore/detail/cognizant-intelligent-tes/eghfogfdhadandcigjcccdfhlohcgljn)
+# Chrome Extension for Cognizant Intelligent Test Scripter 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Cognizant-Intelligent-Test-Scripter)
+[![Google Group](https://img.shields.io/badge/%E2%9C%89-Google%20Group-blue.svg)](https://groups.google.com/forum/#!forum/cognizant-intelligent-test-scripter) 
+[![ChromeDownloads](https://img.shields.io/chrome-web-store/d/eghfogfdhadandcigjcccdfhlohcgljn.svg)](https://chrome.google.com/webstore/detail/cognizant-intelligent-tes/eghfogfdhadandcigjcccdfhlohcgljn)
+[![Version](https://img.shields.io/chrome-web-store/v/eghfogfdhadandcigjcccdfhlohcgljn.svg)](https://chrome.google.com/webstore/detail/cognizant-intelligent-tes/eghfogfdhadandcigjcccdfhlohcgljn)
 
 This extension is used to Spy, Heal and Record from Chrome to Cognizant Intelligent Test Scripter.
 
