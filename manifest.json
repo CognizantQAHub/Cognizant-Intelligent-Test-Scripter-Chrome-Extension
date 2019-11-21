@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Cognizant Intelligent Test Scripter",
     "description": "Spy,Heal and Recorder Extension for Cognizant Intelligent Test Scripter",
-    "version": "0.0.0.2",
+    "version": "0.0.0.4",
     "icons": {
         "16": "logo-16.png",
         "32": "logo-32.png",
